@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github profile](https://github.com/bswagmateo/bswagmateo/assets/48950079/53ac3033-f2cd-403e-a315-8ea607509730)
-### Hey!
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/bswagmateo/bswagmateo/assets/48950079/53ac3033-f2cd-403e-a315-8ea607509730" alt="GitHub Profile" width="200" height="200" style="border-radius: 50%;">
+  <p>I'm someone who is passionate about <strong>GNU/Linux</strong> and likes to <strong>write code</strong>.</p>
+</div>
 
-I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 <h3 align="center">Aspiring web developer | Le Wagon Bootcamp graduate | Eager to learn and grow in front-end and back-end development | Proficient in HTML, CSS, JavaScript | Detail-oriented problem-solver | Seeking opportunities to gain hands-on experience in the tech industry.</h3>
 
 - 🔭 I’m currently working on [Devwiz](https://www.devwiz.me/)
