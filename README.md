@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/bswagmateo/bswagmateo/assets/48950079/53ac3033-f2cd-403e-a315-8ea607509730" alt="GitHub Profile" width="200" height="200" style="border-radius: 50%;">
+  <img src="https://github.com/bswagmateo/bswagmateo/assets/48950079/53ac3033-f2cd-403e-a315-8ea607509730" alt="GitHub Profile">
   <p>I'm someone who is passionate about <strong>GNU/Linux</strong> and likes to <strong>write code</strong>.</p>
 </div>
 
