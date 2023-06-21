@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/bswagmateo/bswagmateo/assets/48950079/53ac3033-f2cd-403e-a315-8ea607509730" alt="GitHub Profile">
-  <p>I'm someone who is passionate about <strong>GNU/Linux</strong> and likes to <strong>write code</strong>.</p>
-</div>
+  <img align="left" src="https://github.com/bswagmateo/bswagmateo/assets/48950079/53ac3033-f2cd-403e-a315-8ea607509730" alt="GitHub Profile">
+Hey there! I'm a passionate web developer, combining my love for coding with the power of the web to create extraordinary projects and push the boundaries of what's possible.
 
-<h3 align="center">Aspiring web developer | Le Wagon Bootcamp graduate | Eager to learn and grow in front-end and back-end development | Proficient in HTML, CSS, JavaScript | Detail-oriented problem-solver | Seeking opportunities to gain hands-on experience in the tech industry.</h3>
+<br>
 
 - 🔭 I’m currently working on [Devwiz](https://www.devwiz.me/)
 
@@ -29,7 +27,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I <3 🐕s**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
