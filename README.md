@@ -38,3 +38,9 @@ Hey there! I'm a passionate **web developer**, combining my **love for coding** 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bswagmateo&show_icons=true&locale=en&layout=compact" alt="bswagmateo" /></p>
 
+<br>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+</p>
