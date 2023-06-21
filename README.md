@@ -30,7 +30,7 @@ I'm a passionate **web developer**, combining my **love for coding** with the po
 
 - 📫 How to reach me **bswagmateo@gmail.com**
 
-- ⚡ Fun fact **I <img src="https://github.com/bswagmateo/bswagmateo/assets/48950079/6a95d239-c322-4689-9eda-7c741e08e340" width="12" height="12"> <img src="https://github.com/bswagmateo/bswagmateo/assets/48950079/9fac7524-80d5-4f35-924e-1ba464f9fda8" width="14" height="14">** s
+- ⚡ Fun fact **I <img src="https://github.com/bswagmateo/bswagmateo/assets/48950079/6a95d239-c322-4689-9eda-7c741e08e340" width="13" height="13"> <img src="https://github.com/bswagmateo/bswagmateo/assets/48950079/602e030c-e437-4ebb-ba22-60b1d3cc64e4" width="13" height="13">**
 
 
 <h3 align="left">Languages and Tools:</h3>
