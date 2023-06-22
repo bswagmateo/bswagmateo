@@ -26,7 +26,7 @@ I'm a passionate **web developer**, combining my **love for coding** with the po
 
 - 🔭 I’m currently working on [Devwiz](https://www.devwiz.me/)
 
-- 🌱 I’m currently learning **React, Typescript, nodejs**
+- 🌱 I’m currently learning **React, TypeScript, nodejs**
 
 - 📫 How to reach me **bswagmateo@gmail.com**
 
