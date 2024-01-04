@@ -24,7 +24,7 @@ I'm a passionate **web developer**, combining my **love for coding** with the po
 <br>
 <br>
 
-- 🔭 I’m currently working on [Devwiz](https://www.devwiz.me/)
+- 🔭 I’m currently working on [Devwiz](https://www.developerwiz.me/)
 
 - 🌱 I’m currently learning **React**
 
